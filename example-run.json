@@ -1,0 +1,847 @@
+{
+  "disclosure": "Rules-based simulation, not an LLM benchmark. Winner emerges from the seeded rules.",
+  "config": {
+    "seed": 731,
+    "size": 20,
+    "left": "pincer",
+    "right": "assault"
+  },
+  "time": 30.766666666666666,
+  "result": "TEAM A",
+  "agents": [
+    {
+      "id": 0,
+      "side": 0,
+      "squad": 0,
+      "x": 533.2063179733409,
+      "y": 351.8183378022088,
+      "hp": 4,
+      "cooldown": 0.8895696862135054,
+      "dodge": 0,
+      "hits": 5
+    },
+    {
+      "id": 1,
+      "side": 0,
+      "squad": 0,
+      "x": 457.97139199780406,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 1.0205853381815049,
+      "dodge": 0.1166666666666667,
+      "hits": 1
+    },
+    {
+      "id": 2,
+      "side": 0,
+      "squad": 0,
+      "x": 529.9837607379803,
+      "y": 232.7195986182573,
+      "hp": 28,
+      "cooldown": 0.21628117048336692,
+      "dodge": 0,
+      "hits": 9
+    },
+    {
+      "id": 3,
+      "side": 0,
+      "squad": 0,
+      "x": 443.5189665382218,
+      "y": 192.7406004682144,
+      "hp": 0,
+      "cooldown": 0.9541041706067794,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 4,
+      "side": 0,
+      "squad": 0,
+      "x": 536.7202003414335,
+      "y": 256.4399019985563,
+      "hp": 76,
+      "cooldown": 1.663080348043392,
+      "dodge": 0,
+      "hits": 7
+    },
+    {
+      "id": 5,
+      "side": 0,
+      "squad": 1,
+      "x": 444.28602181977965,
+      "y": 366.11278955184935,
+      "hp": 0,
+      "cooldown": 1.4993563006787243,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 6,
+      "side": 0,
+      "squad": 1,
+      "x": 470.5053486896766,
+      "y": 478.5695220434532,
+      "hp": 0,
+      "cooldown": 1.3195757265978787,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 7,
+      "side": 0,
+      "squad": 1,
+      "x": 461.36827193223326,
+      "y": 447.59457327287043,
+      "hp": 0,
+      "cooldown": 1.1666015010016642,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 8,
+      "side": 0,
+      "squad": 1,
+      "x": 516.0578856666732,
+      "y": 360.34603168933955,
+      "hp": 0,
+      "cooldown": 1.2449949568059906,
+      "dodge": 0,
+      "hits": 8
+    },
+    {
+      "id": 9,
+      "side": 0,
+      "squad": 1,
+      "x": 549.5873187619335,
+      "y": 549.4158110917024,
+      "hp": 0,
+      "cooldown": 0.059616265593406596,
+      "dodge": 0,
+      "hits": 8
+    },
+    {
+      "id": 10,
+      "side": 0,
+      "squad": 2,
+      "x": 341.1377773486582,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 0.3071043719459926,
+      "dodge": 0.21666666666666667,
+      "hits": 3
+    },
+    {
+      "id": 11,
+      "side": 0,
+      "squad": 2,
+      "x": 509.116158594547,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 1.226519378577359,
+      "dodge": 0.31666666666666665,
+      "hits": 4
+    },
+    {
+      "id": 12,
+      "side": 0,
+      "squad": 2,
+      "x": 373.89639008702824,
+      "y": 148.69535289866386,
+      "hp": 0,
+      "cooldown": 1.3660808190936222,
+      "dodge": 0.016666666666666705,
+      "hits": 5
+    },
+    {
+      "id": 13,
+      "side": 0,
+      "squad": 2,
+      "x": 501.4650684436271,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 1.5652897866209963,
+      "dodge": 0.08333333333333337,
+      "hits": 4
+    },
+    {
+      "id": 14,
+      "side": 0,
+      "squad": 2,
+      "x": 418.4440254681395,
+      "y": 51.259148076689286,
+      "hp": 0,
+      "cooldown": 0.9362116620953496,
+      "dodge": 0.31666666666666665,
+      "hits": 8
+    },
+    {
+      "id": 15,
+      "side": 0,
+      "squad": 3,
+      "x": 581.3382622279992,
+      "y": 550,
+      "hp": 0,
+      "cooldown": 0.9321686489041875,
+      "dodge": 0.25,
+      "hits": 4
+    },
+    {
+      "id": 16,
+      "side": 0,
+      "squad": 3,
+      "x": 356.6885377611801,
+      "y": 298.79430209509735,
+      "hp": 0,
+      "cooldown": 1.0236367152382917,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 17,
+      "side": 0,
+      "squad": 3,
+      "x": 479.4762764537639,
+      "y": 475.72524270848373,
+      "hp": 0,
+      "cooldown": 0.9989811023774849,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 18,
+      "side": 0,
+      "squad": 3,
+      "x": 468.1992734798494,
+      "y": 550,
+      "hp": 0,
+      "cooldown": 1.289588504323425,
+      "dodge": 0.25,
+      "hits": 9
+    },
+    {
+      "id": 19,
+      "side": 0,
+      "squad": 3,
+      "x": 501.1343571401399,
+      "y": 525.4698672264568,
+      "hp": 0,
+      "cooldown": 0.8924763576593231,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 20,
+      "side": 1,
+      "squad": 0,
+      "x": 483.2488133732847,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 0.8967509441232919,
+      "dodge": 0,
+      "hits": 6
+    },
+    {
+      "id": 21,
+      "side": 1,
+      "squad": 0,
+      "x": 663.5158845581115,
+      "y": 529.4752919802116,
+      "hp": 0,
+      "cooldown": 0.16333535500646734,
+      "dodge": 0,
+      "hits": 10
+    },
+    {
+      "id": 22,
+      "side": 1,
+      "squad": 0,
+      "x": 498.49585743130154,
+      "y": 79.41278600428343,
+      "hp": 0,
+      "cooldown": 0.22548330536422379,
+      "dodge": 0,
+      "hits": 2
+    },
+    {
+      "id": 23,
+      "side": 1,
+      "squad": 0,
+      "x": 524.2033382933715,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 0.535359776850477,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 24,
+      "side": 1,
+      "squad": 0,
+      "x": 505.3360027823437,
+      "y": 337.38337396276705,
+      "hp": 0,
+      "cooldown": 1.0562335562581806,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 25,
+      "side": 1,
+      "squad": 1,
+      "x": 598.3125129772842,
+      "y": 316.84901786933693,
+      "hp": 0,
+      "cooldown": 1.5229850881655382,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 26,
+      "side": 1,
+      "squad": 1,
+      "x": 473.0013116608948,
+      "y": 116.97131854981255,
+      "hp": 0,
+      "cooldown": 1.5944512512302023,
+      "dodge": 0,
+      "hits": 8
+    },
+    {
+      "id": 27,
+      "side": 1,
+      "squad": 1,
+      "x": 679.4292540556204,
+      "y": 530.0394867939216,
+      "hp": 0,
+      "cooldown": 0.40513497047747116,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 28,
+      "side": 1,
+      "squad": 1,
+      "x": 451.2611867419887,
+      "y": 174.47280549775172,
+      "hp": 0,
+      "cooldown": 0.5451504301279764,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 29,
+      "side": 1,
+      "squad": 1,
+      "x": 632.4369024819764,
+      "y": 389.6851040064056,
+      "hp": 0,
+      "cooldown": 1.269557394087314,
+      "dodge": 0,
+      "hits": 7
+    },
+    {
+      "id": 30,
+      "side": 1,
+      "squad": 2,
+      "x": 432.04946806018194,
+      "y": 295.102283487008,
+      "hp": 0,
+      "cooldown": 0.4997710344381623,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 31,
+      "side": 1,
+      "squad": 2,
+      "x": 598.5383838121516,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 0.938094356725923,
+      "dodge": 0.35,
+      "hits": 4
+    },
+    {
+      "id": 32,
+      "side": 1,
+      "squad": 2,
+      "x": 502.53497488232176,
+      "y": 100.56100577831609,
+      "hp": 0,
+      "cooldown": 0.7230505972712599,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 33,
+      "side": 1,
+      "squad": 2,
+      "x": 590.8620023723599,
+      "y": 346.4536293309565,
+      "hp": 0,
+      "cooldown": 0.2041467996624582,
+      "dodge": 0,
+      "hits": 3
+    },
+    {
+      "id": 34,
+      "side": 1,
+      "squad": 2,
+      "x": 466.55454881531614,
+      "y": 55.906918705818676,
+      "hp": 0,
+      "cooldown": 1.2987232982801888,
+      "dodge": 0,
+      "hits": 4
+    },
+    {
+      "id": 35,
+      "side": 1,
+      "squad": 3,
+      "x": 666.0181000802121,
+      "y": 50,
+      "hp": 0,
+      "cooldown": 1.4857612386733907,
+      "dodge": 0,
+      "hits": 9
+    },
+    {
+      "id": 36,
+      "side": 1,
+      "squad": 3,
+      "x": 514.2590985885603,
+      "y": 431.1530393980084,
+      "hp": 0,
+      "cooldown": 1.0734566604563334,
+      "dodge": 0.31666666666666665,
+      "hits": 2
+    },
+    {
+      "id": 37,
+      "side": 1,
+      "squad": 3,
+      "x": 601.962986037885,
+      "y": 224.28736256891668,
+      "hp": 0,
+      "cooldown": 0.942773536538394,
+      "dodge": 0.31666666666666665,
+      "hits": 7
+    },
+    {
+      "id": 38,
+      "side": 1,
+      "squad": 3,
+      "x": 503.4058356007038,
+      "y": 400.6708673040813,
+      "hp": 0,
+      "cooldown": 0.2854328838254614,
+      "dodge": 0,
+      "hits": 2
+    },
+    {
+      "id": 39,
+      "side": 1,
+      "squad": 3,
+      "x": 658.4976058229,
+      "y": 550,
+      "hp": 0,
+      "cooldown": 0.46648628553375404,
+      "dodge": 0,
+      "hits": 5
+    }
+  ],
+  "history": [
+    {
+      "time": 1,
+      "a": 20,
+      "b": 20
+    },
+    {
+      "time": 2,
+      "a": 20,
+      "b": 20
+    },
+    {
+      "time": 3,
+      "a": 20,
+      "b": 20
+    },
+    {
+      "time": 4,
+      "a": 20,
+      "b": 20
+    },
+    {
+      "time": 5,
+      "a": 20,
+      "b": 20
+    },
+    {
+      "time": 6,
+      "a": 20,
+      "b": 19
+    },
+    {
+      "time": 7,
+      "a": 19,
+      "b": 18
+    },
+    {
+      "time": 8,
+      "a": 18,
+      "b": 17
+    },
+    {
+      "time": 9,
+      "a": 17,
+      "b": 16
+    },
+    {
+      "time": 10,
+      "a": 15,
+      "b": 15
+    },
+    {
+      "time": 11,
+      "a": 13,
+      "b": 13
+    },
+    {
+      "time": 12,
+      "a": 13,
+      "b": 12
+    },
+    {
+      "time": 13,
+      "a": 12,
+      "b": 11
+    },
+    {
+      "time": 14,
+      "a": 12,
+      "b": 10
+    },
+    {
+      "time": 15,
+      "a": 10,
+      "b": 10
+    },
+    {
+      "time": 16,
+      "a": 10,
+      "b": 9
+    },
+    {
+      "time": 17,
+      "a": 9,
+      "b": 7
+    },
+    {
+      "time": 18,
+      "a": 9,
+      "b": 6
+    },
+    {
+      "time": 19,
+      "a": 9,
+      "b": 6
+    },
+    {
+      "time": 20,
+      "a": 9,
+      "b": 5
+    },
+    {
+      "time": 21,
+      "a": 7,
+      "b": 5
+    },
+    {
+      "time": 22,
+      "a": 7,
+      "b": 4
+    },
+    {
+      "time": 23,
+      "a": 7,
+      "b": 4
+    },
+    {
+      "time": 24,
+      "a": 7,
+      "b": 4
+    },
+    {
+      "time": 25,
+      "a": 6,
+      "b": 4
+    },
+    {
+      "time": 26,
+      "a": 5,
+      "b": 3
+    },
+    {
+      "time": 27,
+      "a": 5,
+      "b": 2
+    },
+    {
+      "time": 28,
+      "a": 5,
+      "b": 1
+    },
+    {
+      "time": 29,
+      "a": 4,
+      "b": 1
+    },
+    {
+      "time": 30,
+      "a": 4,
+      "b": 1
+    }
+  ],
+  "events": [
+    {
+      "tick": 0,
+      "time": 0,
+      "type": "DEPLOY",
+      "message": "20 v 20 / 4 linked squads per team"
+    },
+    {
+      "tick": 90,
+      "time": 3,
+      "type": "TACTICS",
+      "message": "pincer / assault engaged"
+    },
+    {
+      "tick": 174,
+      "time": 5.8,
+      "type": "TAG",
+      "message": "B-19 eliminated"
+    },
+    {
+      "tick": 207,
+      "time": 6.9,
+      "type": "TAG",
+      "message": "A-02 eliminated"
+    },
+    {
+      "tick": 208,
+      "time": 6.93,
+      "type": "TAG",
+      "message": "B-13 eliminated"
+    },
+    {
+      "tick": 215,
+      "time": 7.17,
+      "type": "TAG",
+      "message": "B-17 eliminated"
+    },
+    {
+      "tick": 231,
+      "time": 7.7,
+      "type": "TAG",
+      "message": "A-12 eliminated"
+    },
+    {
+      "tick": 245,
+      "time": 8.17,
+      "type": "TAG",
+      "message": "B-03 eliminated"
+    },
+    {
+      "tick": 249,
+      "time": 8.3,
+      "type": "TAG",
+      "message": "A-20 eliminated"
+    },
+    {
+      "tick": 272,
+      "time": 9.07,
+      "type": "TAG",
+      "message": "A-18 eliminated"
+    },
+    {
+      "tick": 277,
+      "time": 9.23,
+      "type": "TAG",
+      "message": "B-08 eliminated"
+    },
+    {
+      "tick": 287,
+      "time": 9.57,
+      "type": "TAG",
+      "message": "A-14 eliminated"
+    },
+    {
+      "tick": 314,
+      "time": 10.47,
+      "type": "TAG",
+      "message": "A-04 eliminated"
+    },
+    {
+      "tick": 315,
+      "time": 10.5,
+      "type": "TAG",
+      "message": "B-11 eliminated"
+    },
+    {
+      "tick": 322,
+      "time": 10.73,
+      "type": "TAG",
+      "message": "B-20 eliminated"
+    },
+    {
+      "tick": 328,
+      "time": 10.93,
+      "type": "TAG",
+      "message": "A-13 eliminated"
+    },
+    {
+      "tick": 341,
+      "time": 11.37,
+      "type": "TAG",
+      "message": "B-01 eliminated"
+    },
+    {
+      "tick": 365,
+      "time": 12.17,
+      "type": "TAG",
+      "message": "A-06 eliminated"
+    },
+    {
+      "tick": 369,
+      "time": 12.3,
+      "type": "TAG",
+      "message": "B-12 eliminated"
+    },
+    {
+      "tick": 412,
+      "time": 13.73,
+      "type": "TAG",
+      "message": "B-09 eliminated"
+    },
+    {
+      "tick": 421,
+      "time": 14.03,
+      "type": "TAG",
+      "message": "A-08 eliminated"
+    },
+    {
+      "tick": 449,
+      "time": 14.97,
+      "type": "TAG",
+      "message": "A-11 eliminated"
+    },
+    {
+      "tick": 472,
+      "time": 15.73,
+      "type": "TAG",
+      "message": "B-05 eliminated"
+    },
+    {
+      "tick": 488,
+      "time": 16.27,
+      "type": "TAG",
+      "message": "B-15 eliminated"
+    },
+    {
+      "tick": 499,
+      "time": 16.63,
+      "type": "TAG",
+      "message": "A-16 eliminated"
+    },
+    {
+      "tick": 501,
+      "time": 16.7,
+      "type": "TAG",
+      "message": "B-14 eliminated"
+    },
+    {
+      "tick": 532,
+      "time": 17.73,
+      "type": "TAG",
+      "message": "B-06 eliminated"
+    },
+    {
+      "tick": 595,
+      "time": 19.83,
+      "type": "TAG",
+      "message": "B-07 eliminated"
+    },
+    {
+      "tick": 619,
+      "time": 20.63,
+      "type": "TAG",
+      "message": "A-17 eliminated"
+    },
+    {
+      "tick": 620,
+      "time": 20.67,
+      "type": "TAG",
+      "message": "A-07 eliminated"
+    },
+    {
+      "tick": 638,
+      "time": 21.27,
+      "type": "TAG",
+      "message": "B-04 eliminated"
+    },
+    {
+      "tick": 721,
+      "time": 24.03,
+      "type": "TAG",
+      "message": "A-10 eliminated"
+    },
+    {
+      "tick": 751,
+      "time": 25.03,
+      "type": "TAG",
+      "message": "B-18 eliminated"
+    },
+    {
+      "tick": 759,
+      "time": 25.3,
+      "type": "TAG",
+      "message": "A-15 eliminated"
+    },
+    {
+      "tick": 794,
+      "time": 26.47,
+      "type": "TAG",
+      "message": "B-16 eliminated"
+    },
+    {
+      "tick": 828,
+      "time": 27.6,
+      "type": "TAG",
+      "message": "B-10 eliminated"
+    },
+    {
+      "tick": 854,
+      "time": 28.47,
+      "type": "TAG",
+      "message": "A-19 eliminated"
+    },
+    {
+      "tick": 907,
+      "time": 30.23,
+      "type": "TAG",
+      "message": "A-09 eliminated"
+    },
+    {
+      "tick": 923,
+      "time": 30.77,
+      "type": "TAG",
+      "message": "B-02 eliminated"
+    },
+    {
+      "tick": 923,
+      "time": 30.77,
+      "type": "RESULT",
+      "message": "TEAM A / 3 : 0 survivors"
+    }
+  ]
+}
