@@ -1,0 +1,11 @@
+# Local playback exports; the curated example-run.json remains tracked.
+arena-*.json
+agent-arena.webm
+
+# Local environment and operating-system files.
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
